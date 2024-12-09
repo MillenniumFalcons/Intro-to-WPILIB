@@ -25,11 +25,12 @@ Please follow [this guide](https://docs.wpilib.org/en/stable/docs/zero-to-robot/
 - Hit `ctrl + p` (`cmd + shift + p` on mac) to open up the command palette
 - Type `Create a new project` and hit enter
 
-<img src="images\newproject.png" alt="drawing" width="1000"/>
+<img src="images\newnewproject.png" alt="drawing" width="1000"/>
 
 ***right click on image and click open image in new tab to view a bigger version of what to fill in***
 
 - Fill out the Project Creator so it looks something like above.
+	- ***make sure to chose `template -> java -> Command Robot Skeleton (advanced)` for the selector that's circled in the picture***
 	- Chose which ever folder you want your project to be made in
 	- The project name should indicate what year it is, the project should also be in pascal case. (e.g. `YEAR-SomeName`)
 	- Type 3647 for the team number. You will not be able to deploy code to the robot if your have the wrong team number. 
